@@ -11,44 +11,14 @@
 <h3 align="center">Tech Stack & Focus Areas</h3>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="left"><strong>Frontend & Mobile</strong></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="nextjs" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="tailwindcss" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" alt="flutter" /></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Backend & Database</strong></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="fastapi" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" alt="php" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="28" alt="laravel" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="firebase" /></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>AI & Machine Learning</strong></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="opencv" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="sql" /></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="left"><strong>Tools & Systems</strong></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker" /></td>
-      <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="figma" /></td>
-      <td align="center"></td>
-      <td align="center"></td>
-      <td align="center"></td>
-    </tr>
-  </table>
+
+| Focus Area | Technologies |
+| :--- | :--- |
+| **Frontend & Mobile** | [![Next.js](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org) &nbsp; [![React](https://skillicons.dev/icons?i=react)](https://react.dev) &nbsp; [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org) &nbsp; [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com) &nbsp; [![Flutter](https://skillicons.dev/icons?i=flutter)](https://flutter.dev) |
+| **Backend & Database** | [![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com) &nbsp; [![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org) &nbsp; [![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net) &nbsp; [![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com) &nbsp; [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org) &nbsp; [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com) |
+| **AI & Machine Learning** | [![Python](https://skillicons.dev/icons?i=python)](https://www.python.org) &nbsp; [![OpenCV](https://skillicons.dev/icons?i=opencv)](https://opencv.org) &nbsp; [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com) |
+| **Tools & Systems** | [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com) &nbsp; [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com) &nbsp; [![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com) |
+
 </div>
 
 <br />
