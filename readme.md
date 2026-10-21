@@ -1,67 +1,100 @@
-<div align="center">
-  <br />
-  <h1>Muhammad Raynar Hammam</h1>
-  <p><strong>Information Systems Student • Software Engineering • Data & Business Tech</strong></p>
-  <p>Bridging technology, software systems, and data-driven insights to build impactful digital solutions.</p>
+<h1 align="left">Muhammad Raynar Hammam 👋</h1>
 
-  <p>
-    <a href="https://mraynar.my.id">
-      <img src="https://img.shields.io/badge/Portfolio-gray?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
-    &nbsp;
-    <a href="https://linkedin.com/in/mraynar">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://instagram.com/mraynarr/">
-      <img src="https://img.shields.io/badge/Instagram-purple?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-    </a>
-    &nbsp;
-    <a href="mailto:raynarham23@gmail.com">
-      <img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
-</div>
+###
 
-<br />
+<p align="left">Undergraduate Information Systems Student at UPN "Veteran" Jawa Timur • Software Engineering • Data & Business Tech</p>
 
-### 🛠️ Tech Stack & Focus Areas
+###
+
+<p align="left">Bridging technology, software systems, and data-driven insights to build impactful digital solutions.</p>
+
+###
+
+<h2 align="left">Tech Stack & Focus Areas</h2>
+
+###
 
 <table>
   <tr>
     <td width="26%"><strong>Frontend & Mobile</strong></td>
     <td>
-      <code>Next.js</code> • <code>React</code> • <code>TypeScript</code> • <code>Tailwind CSS</code> • <code>Flutter</code> • <code>React Native</code>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28" alt="nextjs" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" alt="react" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" alt="typescript" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" alt="tailwindcss" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="28" alt="flutter" />
     </td>
   </tr>
   <tr>
     <td><strong>Backend & Database</strong></td>
     <td>
-      <code>FastAPI</code> • <code>Node.js</code> • <code>PHP / Laravel</code> • <code>PostgreSQL</code> • <code>Firebase</code>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="28" alt="fastapi" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28" alt="nodejs" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" alt="php" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="28" alt="laravel" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28" alt="postgresql" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="28" alt="firebase" />
     </td>
   </tr>
   <tr>
     <td><strong>Data & Applied AI</strong></td>
     <td>
-      <code>Python</code> • <code>RAG Architecture</code> • <code>Vector DB (pgvector)</code> • <code>Computer Vision</code> • <code>SQL</code>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" alt="python" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="28" alt="opencv" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" alt="sql" />
     </td>
   </tr>
   <tr>
-    <td><strong>Business & Analytics</strong></td>
+    <td><strong>Tools & Systems</strong></td>
     <td>
-      <code>Power BI</code> • <code>Google Looker Studio</code> • <code>Business Process Modeling</code> • <code>Data Visualization</code>
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Tools & DevOps</strong></td>
-    <td>
-      <code>Git & GitHub</code> • <code>Docker</code> • <code>Vercel</code> • <code>Supabase</code> • <code>Figma</code>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28" alt="git" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" alt="docker" />
+      <img width="8" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="28" alt="figma" />
     </td>
   </tr>
 </table>
 
+###
+
+<h2 align="left">Connect With Me</h2>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/mraynar" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="36" alt="linkedin" />
+  </a>
+  <img width="6" />
+  <a href="https://instagram.com/mraynarr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="48" height="36" alt="instagram" />
+  </a>
+  <img width="6" />
+  <a href="mailto:raynarham23@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="36" alt="gmail" />
+  </a>
+  <img width="6" />
+  <a href="https://mraynar.my.id" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="36" height="36" alt="portfolio" />
+  </a>
+</div>
+
+###
+
 <br />
 
-<div align="center">
-  <sub>📍 Surabaya, Indonesia</sub>
+<div align="left">
+  <sub>Surabaya, Indonesia</sub>
 </div>
